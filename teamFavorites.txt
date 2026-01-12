@@ -1,5 +1,8 @@
 Cheeseburger
+Eggs
+Ice Cream
 Mac N Cheese
 Pizza
+Potato
 Sushi
 Tacos
