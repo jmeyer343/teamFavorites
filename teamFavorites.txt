@@ -1,6 +1,9 @@
+Bacon
 Cheeseburger
+Chicken
 Eggs
 Ice Cream
+Jello
 Mac N Cheese
 Pizza
 Potato
